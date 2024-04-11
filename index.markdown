@@ -4,5 +4,9 @@
 
 layout: home
 ---
-
-Andy J Tran
+  
+  
+  
+<p style = "font-size: 30px"><b>Andy J Tran</b></p>
+product manager in tech  
+living in Seattle  
