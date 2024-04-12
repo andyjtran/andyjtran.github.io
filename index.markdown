@@ -3,10 +3,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Andy J Tran
 ---
-  
-  
-  
-<p style = "font-size: 30px"><b>Andy J Tran</b></p>
+
 product manager in tech  
-living in Seattle  
+living in seattle  
