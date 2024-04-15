@@ -6,13 +6,3 @@ layout: home
 permalink: /
 title: home
 ---
-
-<h1 class="page-heading">Andy J Tran</h1>
-product manager in tech  
-living in seattle  
-  
-  
-
-  
-
-
