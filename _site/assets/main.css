@@ -90,13 +90,15 @@ table td { border: 1px solid #e8e8e8; }
 
 .contact-list, .social-media-list { list-style: none; margin-left: 0; }
 
+.social-media-list-item { margin: 0 20px; align-items: center; }
+
 .footer-col-wrapper { font-size: 30x; color: #828282; margin-left: -15px; }
 
 .footer-col { float: right; margin-bottom: 15px; padding-left: 15px; }
 
 .footer-col-1 { width: -webkit-calc(25% - (30px / 2)); width: calc(25% - (30px / 2)); }
 
-.footer-col-2 { width: -webkit-calc(30% - (30px / 2)); width: calc(30% - (30px / 2)); }
+.footer-col-2 { display: flex; justify-content: start; width: -webkit-calc(30% - (30px / 2)); width: calc(30% - (30px / 2)); }
 
 .footer-col-3 { width: -webkit-calc(45% - (30px / 2)); width: calc(45% - (30px / 2)); }
 
@@ -134,6 +136,9 @@ table td { border: 1px solid #e8e8e8; }
 @media screen and (max-width: 1920px) { .post-content h4 { font-size: 36x; } }
 
 body { padding-left: 125px; padding-right: 100px; }
+
+/** Home  */
+.whowhatwhere-wrapper { padding-bottom: 500px; }
 
 /** Syntax highlighting styles */
 .highlight { background: #fff; }

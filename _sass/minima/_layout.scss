@@ -124,6 +124,11 @@
   margin-left: 0;
 }
 
+.social-media-list-item {
+  margin: 0 20px;
+  align-items: center;
+}
+
 .footer-col-wrapper {
   @include relative-font-size(0.9375);
   color: $grey-color;
@@ -143,6 +148,8 @@
 }
 
 .footer-col-2 {
+  display: flex;
+  justify-content: start;
   width: -webkit-calc(30% - (#{$spacing-unit} / 2));
   width:         calc(30% - (#{$spacing-unit} / 2));
 }
@@ -270,4 +277,15 @@
 body {
   padding-left: 125px;
   padding-right: 100px;
+}
+
+/**
+ * Home 
+ */
+.whowhatwhere-wrapper{
+  padding-bottom: 500px;
+}
+
+.homework-wrapper {
+
 }
