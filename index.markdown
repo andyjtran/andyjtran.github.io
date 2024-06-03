@@ -6,3 +6,5 @@ layout: home
 permalink: /
 title: home
 ---
+
+### Projects: [Professional](/work/work.markdown) & [Personal](/play/play.markdown)
