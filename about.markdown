@@ -25,4 +25,4 @@ I like learning new things so I have collected several hobbies over time. I hope
 <br><br>
 
 # Disclaimer
-Views and opinions expressed on this site are my personal opinions and may not represent the opinions of any entities I may be affiliated with.
+Views and opinions expressed on this site are my personal opinions and may not represent the opinions of any entities I may be associated with.
